@@ -1,0 +1,8 @@
+Model Information:
+* title:	Stylized Monster Truck | HandPaint
+* source:	https://sketchfab.com/3d-models/stylized-monster-truck-handpaint-a0537f99888b4400a4146da9713e3f82
+* author:	Viktor Balashov (https://sketchfab.com/SpacySeal)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
